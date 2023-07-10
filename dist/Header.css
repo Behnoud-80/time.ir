@@ -1,0 +1,288 @@
+.background {
+  background-color: #E6E6E6;
+}
+
+.menu1 {
+  position: relative;
+}
+@media (max-width: 768px) {
+  .menu1 {
+    display: block;
+  }
+}
+
+@media (max-width: 768px) {
+  .height-tit {
+    display: block;
+    height: "60";
+  }
+}
+
+.bottom-left {
+  position: absolute;
+  color: #0A7EA6;
+  font-weight: bold;
+  font-size: 60px;
+  text-decoration: none;
+  display: block;
+  top: 2%;
+}
+@media (max-width: 768px) {
+  .bottom-left {
+    font-size: 50px;
+    top: 1%;
+  }
+}
+
+.bottom-left:hover {
+  color: #0A7EA6;
+}
+
+.box-color-1 {
+  background-color: #0E9ACC;
+  color: white;
+}
+
+.bg-red {
+  background-color: #69C2EA;
+  color: white;
+}
+
+.Box-title-1 {
+  margin-top: 30px;
+  font-size: 13px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.Box-title {
+  font-size: 15px;
+  text-align: center;
+  margin-top: 5px;
+  border-bottom: 1px solid;
+  border-color: #96D4F0;
+  padding: 5px 15px;
+}
+
+.box-text {
+  font-size: 13px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.size-witdh {
+  width: 1200px;
+}
+@media (max-width: 768px) {
+  .size-witdh {
+    margin-top: 55px;
+    width: auto;
+    padding-right: 0;
+    padding-left: 0;
+    display: block;
+  }
+}
+
+.text-div2 {
+  font-size: 20px;
+  color: #69c2ea;
+  font-weight: bold;
+  border-color: #d2d2d2;
+}
+
+.spacing-right {
+  margin-right: -20px;
+}
+@media (min-width: 768px) {
+  .spacing-right {
+    margin-right: 18px;
+  }
+}
+
+.nevisande {
+  color: #0a0a78;
+  font-weight: bold;
+  font-size: 13px;
+  text-decoration: none;
+}
+
+.nevisande:hover {
+  color: #0a0a78;
+}
+
+.font-a {
+  text-decoration: none;
+}
+
+.bg-gray {
+  background-color: #f8f8f8c3;
+}
+
+.month-ghabl-bad {
+  font-size: 14px;
+  color: black;
+  text-decoration: none;
+}
+
+.month-ghabl-bad:hover {
+  color: black;
+}
+
+.kalender-font {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+  font-weight: bold;
+}
+
+.khakestari {
+  background-color: #555555;
+  color: #E6E6E6;
+}
+
+.kalender-font:hover {
+  color: black;
+}
+
+.kalender-font-small {
+  text-decoration: none;
+  font-size: 12px;
+  color: grey;
+  font-weight: lighter;
+}
+
+.kalender-font-small:hover {
+  color: grey;
+  font-weight: lighter;
+}
+
+.freeday {
+  color: red;
+  font-weight: bold;
+}
+
+.freeday:hover {
+  color: red;
+}
+
+.mah-abi {
+  color: #69c2ea;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.mah-abi:hover {
+  color: #69c2ea;
+  font-weight: bold;
+}
+
+.btn-primary {
+  background-color: #69c2ea;
+  border-color: #69c2ea;
+  color: black;
+  font-size: 15px;
+}
+
+.btn-primary:hover {
+  background-color: white;
+  border-color: #69c2ea;
+  color: #69c2ea;
+  font-weight: bold;
+}
+
+.monasebatha {
+  font-size: 30px;
+  font-weight: bold;
+  color: #69c2ea;
+}
+
+.linie {
+  border-bottom: 1px solid;
+  color: #d2d2d2;
+  margin-top: 15px;
+}
+
+.rozmah {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.maha {
+  font-weight: lighter;
+  color: black;
+}
+
+.maha:hover {
+  color: black;
+  font-weight: bold;
+}
+
+.font-sm {
+  font-size: 15px;
+}
+
+.tabdil-3 {
+  width: 100%;
+  background-color: #69c2ea;
+  margin-top: 25px;
+}
+
+.tabdil-3:hover {
+  background-color: #69c2ea;
+}
+
+.bg-ahmad {
+  background-color: #F0F0F0;
+}
+
+.btn-man {
+  background-color: #69c2ea;
+  margin-left: 4px;
+  color: #F0F0F0;
+  font-weight: bold;
+  width: 210px;
+  height: 50px;
+}
+
+.btn-man:hover {
+  background-color: #0D8EBD;
+}
+
+.downl-fon {
+  font-size: 20px;
+  color: #666670;
+  font-weight: bolder;
+}
+
+.downl-fon-color {
+  background-color: #CCCCCC;
+}
+
+.div-last-bg {
+  background-color: #0980ab;
+}
+
+.btn-akhar {
+  background-color: #69c2ea;
+  color: black;
+  font-weight: bold;
+}
+
+.btn-akhar:hover {
+  color: black;
+  background-color: #69c2ea;
+}
+
+.footer-bg {
+  background-color: #1F1F1F;
+}
+
+.a-khar {
+  color: white;
+  font-size: 12px;
+  text-decoration: none;
+}
+
+.a-khar:hover {
+  color: white;
+}
